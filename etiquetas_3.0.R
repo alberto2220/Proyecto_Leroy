@@ -173,6 +173,6 @@ etiquetas_3.0<-function(){
   writeWorksheet(wb,etiquetas,sheet = "Etiquetas")
   saveWorkbook(wb)
 
-  return(tabla2)}
+  return()}
 
 #  ------------------------------------------------------------------------
